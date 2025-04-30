@@ -1,2 +1,1 @@
-<h1 align="center"><b>Hi, I'm Shanuka Umesh</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center"><b>Hi, I'm Shanuka Umesh </b> <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif?cid=ecf05e47b95p5wvm8yom9lyhkbsdaj0bnx2z6kw3vonemv4n&ep=v1_stickers_search&rid=giphy.gif&ct=e"   width="35"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"   width="35">  </h1>
